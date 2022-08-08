@@ -10,10 +10,8 @@
 </p>
 
 ---
-
-<div>
+<p><img src="./animation_500.gif" align="right" alt="Coding" width="300"/></p>
 <h1 align="left">🤩 About Ryuzvki221 🤔</h1>
-<p><img src="./animation_500.gif" align="right" alt="Coding" width="400"/></p>
 <p  align="left">
     <strong>🌱Proactive, resourceful and highly motivated with good communication skills and ability to work in high output environment.<br>
     Knowledgeable and strong interest in security, application design, development, clean code and testing,continuous
@@ -22,11 +20,8 @@
     Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and Mangas⚡.
     <br>As a Human undercover agent i'm a FullStack Developer and Pentester living in Dakar, Senegal.</strong>
 </p>
-</div>
----
 
-<br>
-<br>
+<br/>
 
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
 
