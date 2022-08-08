@@ -32,11 +32,16 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuzvki221&show_icons=true&locale=en&layout=compact" alt="ryuzvki221" /></p>
+<h2 align="left">Github Resume</h2>
+<div align="center">
+    <a href="https://github.com/ryuzvki221" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuzvki221&show_icons=true&locale=en" alt="ryuzvki221" /> </a>
+</div>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuzvki221&show_icons=true&locale=en" alt="ryuzvki221" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzvki221&" alt="ryuzvki221" /></p>
+<div align="center">
+<a href="https://github.com/ryuzvki221" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzvki221&" alt="ryuzvki221" /> </a>
+</div>
 
 ---
 
