@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="https://ryuzvki221.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ryuzvki221/ryuzvki221.github.io/master/images/portfolio.png" /></a>
 
 <h3 align="center">Hey there, I'm <a href="#">Mamadou</a> - aka Ryuzvki221 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <h3 align="center">A passionate FullStack developer from Senegal</h3>
@@ -12,7 +13,9 @@
 </p>
 
 ---
-<p><img src="./animation_500.gif" align="right" alt="Coding" width="300"/></p>
+<!-- <p><img src="./animation_500.gif" align="right" alt="Coding" width="300"/></p> -->
+<a href="https://app.daily.dev/ryuzvki"><img src="https://api.daily.dev/devcards/91ce0ea36f8b4d1d872049286bc81e6d.png?r=o8a" width="300" alt="Mamadou NIANG's Dev Card" align="right" /></a>
+
 <h1 align="left">🤩 About Ryuzvki221 🤔</h1>
 <p  align="left">
     <strong>🌱Proactive, resourceful and highly motivated with good communication skills and ability to work in high output environment.<br>
