@@ -39,10 +39,10 @@
 
 <h2 align="left">Github Resume</h2>
 
-<div>
+<!--<div>
 <a href="https://github.com/ryuzvki221" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuzvki221&show_icons=true&locale=en" alt="ryuzvki221" width="360" /> </a>
 <a href="https://github.com/ryuzvki221" target="_blank"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzvki221" alt="ryuzvki221"  width="360"/></a>
-</div>
+</div>-->
 
 
 ---
