@@ -106,7 +106,6 @@
 -->
 <h1 align="left">📞 Let's Meet ☎</h1>
 <p align="center">
-<a href="https://twitter.com/ryuzvki_sn" target="blank"><img src="https://img.shields.io/badge/TWITTER-@ryuzvki221-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
 <a href="https://linkedin.com/in/ryuzvki" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-@ryuzvki221-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
-<!-- <a href="https://instagram.com/ryuzvki"><img src="https://img.shields.io/badge/INSTAGRAM-@ryuzvki221-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a> -->
 <a href="mailto:contact.stateless@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@ryuzvki221-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+</p>
