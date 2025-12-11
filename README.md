@@ -23,7 +23,7 @@
 <!-- <p><img src="./animation_500.gif" align="right" alt="Coding" width="300"/></p> -->
 <a href="https://app.daily.dev/ryuzvki"><img src="https://api.daily.dev/devcards/91ce0ea36f8b4d1d872049286bc81e6d.png?r=o8a" width="300" alt="Mamadou NIANG's Dev Card" align="right" /></a>
 
-<h1 align="left">🤩 About Ryuzvki221 🤔</h1>
+<h1 align="left">🤩 About Mamadou</h1>
 <p  align="left">
     <strong>Proactive and resourceful junior researcher with strong skills in security, application design, clean code, testing, and CI/CD. Effective in collaborative environments and highly motivated by technology and science. Full-stack developer and pentester based in Quebec, Canada.</strong>
 </p>
