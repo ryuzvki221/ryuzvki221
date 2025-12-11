@@ -1,8 +1,8 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <a href="https://ryuzvki221.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ryuzvki221/ryuzvki221.github.io/master/images/portfolio.png" /></a>
 
-<h3 align="center">Hey there, I'm <a href="#">Mamadou</a> - aka Ryuzvki221 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-<h3 align="center">A passionate FullStack developer with skill in Cybersecurity</h3>
+<h3 align="center">Hey there, I'm <a href="#">Mamadou</a> - aka Ryuzvki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Full-Stack Developer & Cybersecurity Junior Researcher</h3>
 
 #
 
@@ -18,17 +18,15 @@
 
 <h1 align="left">🤩 About Ryuzvki221 🤔</h1>
 <p  align="left">
-    <strong>🌱Proactive, resourceful, and highly motivated with good communication skills and the  ability to work in high output environment.<br>
-    Knowledgeable and strong interest in security, application design, development, clean code and testing, continuous
-    integration and continuous deployment.Maintains good interpersonal skills.
-    <br>Ability to work in a team-based environment and participate on a highly matrixed team.<br>
-    Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and Mangas⚡.
-    <br>As a Human undercover agent I'm a FullStack Developer and Pentester living in Quebec, Canada.</strong>
+    <strong>Proactive and resourceful junior researcher with strong skills in security, application design, clean code, testing, and CI/CD. Effective in collaborative environments and highly motivated by technology and science. Full-stack developer and pentester based in Quebec, Canada.</strong>
 </p>
 
 <br/>
 
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/>
+</p>
 
 <p align="left">
 
@@ -46,6 +44,27 @@
 
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+
+  <!-- Django -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="40" height="40" alt="Django"/>
+
+  <!-- FastAPI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+
+  <!-- Bash -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+
+  <!-- LLM (Generic AI icon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="LLM"/>
+
+  <!-- Terraform -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+
+  <!-- OpenStack -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" width="40" height="40" alt="OpenStack"/>
+
+  <!-- VMware -->
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" width="40" height="40" alt="VMware"/>
 
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
