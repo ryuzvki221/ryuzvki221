@@ -25,7 +25,7 @@
 
 <h1 align="left">🤩 About Mamadou</h1>
 <p  align="left">
-    <strong>Proactive and resourceful junior researcher with strong skills in security, application design, clean code, testing, and CI/CD. Effective in collaborative environments and highly motivated by technology and science. Full-stack developer and pentester based in Quebec, Canada.</strong>
+    <strong>Proactive and resourceful junior researcher with strong skills in security, application design, clean code, testing, and CI/CD. Effective in collaborative environments and highly motivated by technology and science.</strong>
 </p>
 
 <br/>
