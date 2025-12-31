@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN">
   </a>
   <a href="https://github.com/ryuzvki221">
-    <img src="https://img.shields.io/badge/COUNTRY%20OF%20-CANADA-ff0000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ff0000?style=for-the-badge">
   </a>
   <a href="https://github.com/ryuzvki221">
-    <img src="https://img.shields.io/badge/IN%20NORTH-AMERICA-0072C6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/IN%20AFRICA-0072C6?style=for-the-badge">
   </a>
 </p>
 
